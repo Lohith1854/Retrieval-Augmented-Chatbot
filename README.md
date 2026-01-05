@@ -1,35 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Gemini RAG Chatbot</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 40px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    code, pre {
-      background: #eee;
-      padding: 6px;
-      border-radius: 4px;
-    }
-    .box {
-      background: #ffffff;
-      padding: 20px;
-      border-radius: 6px;
-      box-shadow: 0 0 5px rgba(0,0,0,0.1);
-      margin-bottom: 20px;
-    }
-  </style>
-</head>
-<body>
-
   <h1>🚀 Gemini RAG Chatbot</h1>
 
   <div class="box">
